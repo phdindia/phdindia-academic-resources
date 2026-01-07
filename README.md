@@ -1,3 +1,12 @@
 # phdindia-academic-resources
   PhD India offers expert thesis assistance, research paper support, publication guidance, and patent services for PhD scholars, ensuring high-quality, ethical research solutions
-  https://github.com/phdindia/phdindia-academic-resources.git
+  <h1>PhD India – Academic Research Support</h1>
+<p>
+PhD India provides ethical thesis assistance, publication guidance,
+and patent services for PhD scholars in India.
+</p>
+
+<p>
+Visit our official website:
+<a href="https://phdindia.com">https://phdindia.com</a>
+</p>
